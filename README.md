@@ -1,12 +1,16 @@
 # VoiceBot
-Bot to answer different queries by talking with user 
+Bot to answer different queries by talking with user.
 
-Uses 
+An artificial intelligence (AI) powered software that can interact with users using voice Processing. It captures, interprets and analyzes a person's vocal input and responds to them via voice using natural language processing (NLP) and machine learning.
 
-*Speech Recognition
+## Technology Used
 
-*Speech to text
+  *  Natural Language Processing (NLP).
+  
+  *  Speech Recognition.
 
-*Text to Speech
+  *  Speech to text conversion. 
 
-*Wikepedia
+  *  Text to Speech conversion. 
+
+  *  Browser and Wikepedia search.
